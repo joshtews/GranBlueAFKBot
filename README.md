@@ -4,6 +4,8 @@ To Install:
 pip install requirements.txt
 
 To Run:
-> run the GranBlueAFK.py script
-> hold f9 for a second until the printout shows that image search is on
-> make sure the game screen in selected and on your primary monitor
+> 1. run the GranBlueAFK.py script
+> 
+> 2. hold f9 for a second until the printout shows that image search is on
+> 
+> 3. make sure the game screen in selected and on your primary monitor
